@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+<body>
+import React from "react";
+import "./style.css";
+
+export const Index = () => {
+  return (
+    <div className="index">
+      <div className="overlap-wrapper">
+        <div className="overlap">
+          <div className="group">
+            <div className="rectangle" />
+          </div>
+          <div className="BG">
+            <div className="overlap-group">
+              <img
+                className="mockup"
+                alt="Mockup"
+                src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f430ca9d21f2fb310f48/img/mockup-ellipse1@2x.png"
+              />
+              <img
+                className="img"
+                alt="Group"
+                src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/group-3608.png"
+              />
+              <img
+                className="mockup-ellipse"
+                alt="Mockup"
+                src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/mockup-ellipse2@2x.png"
+              />
+            </div>
+          </div>
+          <div className="div-non-create">
+            <div className="div">
+              <div className="zi-regular-login">
+                <div className="main-heading-log">Log In</div>
+                <div className="main-form-label">Username</div>
+                <div className="text-wrapper">Language</div>
+                <div className="main-form-button" />
+                <div className="main-form">
+                  <div className="span-o-form-input" />
+                </div>
+                <img
+                  className="main-form-2"
+                  alt="Main form"
+                  src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/main---form.svg"
+                />
+                <div className="main-form-label-2">Password</div>
+                <div className="button-wrapper">
+                  <img
+                    className="button"
+                    alt="Button"
+                    src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/button.svg"
+                  />
+                </div>
+                <div className="main-form-label-3">Remember me</div>
+                <div className="main-form-link">Forgot password?</div>
+                <div className="main" />
+                <div className="main-or">Or</div>
+                <div className="main-2" />
+                <div className="main-button">
+                  <img
+                    className="google-icon-btn-svg"
+                    alt="Google icon btn svg"
+                    src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/google-icon-btn-svg.svg"
+                  />
+                  <div className="p">
+                    <div className="text-wrapper-2">Google</div>
+                  </div>
+                </div>
+                <div className="main-button-2">
+                  <img
+                    className="microsoft-icon-btn"
+                    alt="Microsoft icon btn"
+                    src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/microsoft-icon-btn-svg.svg"
+                  />
+                  <div className="div-wrapper">
+                    <div className="text-wrapper-3">Office 365</div>
+                  </div>
+                </div>
+                <div className="main-button-3">
+                  <img
+                    className="sf-btn-icon-svg"
+                    alt="Sf btn icon svg"
+                    src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/sf-btn-icon-svg.svg"
+                  />
+                  <div className="p-2">
+                    <div className="text-wrapper-4">Salesforce</div>
+                  </div>
+                </div>
+                <img
+                  className="fluent-checkbox"
+                  alt="Fluent checkbox"
+                  src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/fluent-checkbox-checked-16-filled.svg"
+                />
+                <div className="login">
+                  <div className="text-wrapper-5">Login</div>
+                </div>
+              </div>
+              <div className="text-wrapper-6">Glad you’re back.!</div>
+            </div>
+          </div>
+          <div className="div-loginpage-main">
+            <p className="text-wrapper-7">© 2023 HI Tech Infosystem</p>
+            <div className="link">
+              <div className="terms-conditions">Terms &amp; Conditions</div>
+            </div>
+            <div className="link-2">
+              <div className="text-wrapper-8">Privacy</div>
+            </div>
+            <div className="link-status">Status</div>
+          </div>
+          <img
+            className="ph-meta-logo-light"
+            alt="Ph meta logo light"
+            src="https://cdn.animaapp.com/projects/6555f2d75c6696db1a1cea9b/releases/6555f35670f6708e73bf59d3/img/ph-meta-logo-light.svg"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+<body>
+<div style="width: 1200px; height: 900px; position: relative; background: #30313A">
+  <div style="width: 961px; height: 815px; left: 173px; top: 43px; position: absolute; background: #171821; box-shadow: 0px 30px 60px rgba(0, 0, 0, 0.20); border-radius: 24px; overflow: hidden">
+    <div style="width: 38px; height: 10px; left: 25px; top: 25px; position: absolute">
+      <div style="width: 10px; height: 10px; left: 0px; top: 0px; position: absolute; background: #EA1701; border-radius: 9999px"></div>
+      <div style="width: 10px; height: 10px; left: 14px; top: 0px; position: absolute; background: #FEB002; border-radius: 9999px"></div>
+      <div style="width: 10px; height: 10px; left: 28px; top: 0px; position: absolute; background: #029F04; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 504px; height: 44px; left: 175px; top: 17px; position: absolute">
+      <div style="width: 504px; height: 44px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 8px"></div>
+      <div style="width: 99px; height: 15px; left: 16px; top: 14.50px; position: absolute; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+        <div style="width: 13px; height: 13px; position: relative">
+          <div style="width: 13px; height: 13px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #D9D9D9"></div>
+          <div style="width: 10.83px; height: 10.83px; left: 1.08px; top: 1.08px; position: absolute; border: 1.14px #ABABAB solid"></div>
+        </div>
+        <div style="color: #D2D2D2; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Search here...</div>
+      </div>
+    </div>
+    <div style="left: 848px; top: 27px; position: absolute; justify-content: flex-start; align-items: center; gap: 15px; display: inline-flex">
+      <div style="width: 15px; height: 16.79px; position: relative">
+        <div style="width: 14.89px; height: 16.79px; left: 0px; top: 0px; position: absolute; background: white"></div>
+        <div style="width: 6px; height: 6px; left: 9px; top: 0px; position: absolute; background: #FC003C; border-radius: 9999px"></div>
+      </div>
+      <img style="width: 29px; height: 29px; border-radius: 9999px" src="https://via.placeholder.com/29x29" />
+      <div style="width: 6px; height: 12px; transform: rotate(-90deg); transform-origin: 0 0; background: white"></div>
+    </div>
+    <div style="left: 175px; top: 84px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 14px; display: inline-flex">
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 14px; display: inline-flex">
+        <div style="width: 504px; height: 201px; position: relative">
+          <div style="width: 504px; height: 201px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="width: 138px; height: 35px; left: 14px; top: 19px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: inline-flex">
+            <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">All message status</div>
+            <div style="color: #A0A0A0; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Sales Summary</div>
+          </div>
+          <div style="width: 476px; height: 107px; left: 14px; top: 74px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+            <div style="width: 104px; height: 107px; position: relative">
+              <div style="width: 104px; height: 107px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 10px"></div>
+              <div style="width: 81px; height: 88px; left: 12px; top: 10px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div style="width: 26px; height: 26px; position: relative">
+                  <div style="width: 26px; height: 26px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #D9D9D9"></div>
+                  <div style="width: 19.95px; height: 23.47px; left: 3.25px; top: 1.08px; position: absolute">
+                    <div style="width: 19.95px; height: 23.47px; left: 0px; top: 0px; position: absolute; border: 1.95px #FCB859 solid"></div>
+                    <div style="width: 9.39px; height: 7.04px; left: 5.28px; top: 8.22px; position: absolute; border: 1.95px #FCB859 solid"></div>
+                  </div>
+                </div>
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: flex">
+                  <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">5k</div>
+                  <div style="color: #E8E8E8; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Total Mesages</div>
+                  <div style="color: #FCB859; font-size: 8px; font-family: Inter; font-weight: 500; word-wrap: break-word">+10% from yesterday</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 104px; height: 107px; position: relative">
+              <div style="width: 104px; height: 107px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 10px"></div>
+              <div style="width: 77px; height: 88px; left: 14px; top: 11px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div style="width: 26px; height: 26px; position: relative">
+                  <div style="width: 26px; height: 26px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #D9D9D9"></div>
+                  <div style="width: 17.88px; height: 22.57px; left: 4px; top: 2px; position: absolute">
+                    <div style="width: 17.88px; height: 20.88px; left: 0px; top: 1.69px; position: absolute; border: 1.50px #618DFE solid"></div>
+                    <div style="width: 7.82px; height: 17.49px; left: 5.03px; top: 0px; position: absolute; border: 1.50px #618DFE solid"></div>
+                  </div>
+                </div>
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: flex">
+                  <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">500</div>
+                  <div style="color: #E8E8E8; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Delivered</div>
+                  <div style="color: #618DFE; font-size: 8px; font-family: Inter; font-weight: 500; word-wrap: break-word">+8% from yesterday</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 104px; height: 107px; position: relative">
+              <div style="width: 104px; height: 107px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 10px"></div>
+              <div style="width: 77px; height: 88px; left: 14px; top: 11px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div style="width: 26px; height: 26px; position: relative">
+                  <div style="width: 26px; height: 26px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #D9D9D9"></div>
+                  <div style="width: 21.94px; height: 24.28px; left: 2.17px; top: 1.08px; position: absolute; background: #5A2182"></div>
+                </div>
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: flex">
+                  <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">9</div>
+                  <div style="color: #E8E8E8; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Recents</div>
+                  <div style="color: #5A2182; font-size: 8px; font-family: Inter; font-weight: 500; word-wrap: break-word">+2% from yesterday</div>
+                </div>
+              </div>
+            </div>
+            <div style="width: 104px; height: 107px; position: relative">
+              <div style="width: 104px; height: 107px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 10px"></div>
+              <div style="width: 77px; height: 88px; left: 14px; top: 11px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+                <div style="width: 26px; height: 26px; position: relative">
+                  <div style="width: 26px; height: 26px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #D9D9D9"></div>
+                  <div style="width: 20.58px; height: 21.67px; left: 3.25px; top: 2.17px; position: absolute">
+                    <div style="width: 10.99px; height: 10.83px; left: 4.10px; top: -0px; position: absolute; border: 1.50px #618DFE solid"></div>
+                    <div style="width: 20.58px; height: 9.75px; left: 0px; top: 11.92px; position: absolute; border: 1.50px #618DFE solid"></div>
+                  </div>
+                </div>
+                <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: flex">
+                  <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">12</div>
+                  <div style="color: #E8E8E8; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">New Replies</div>
+                  <div style="color: #618DFE; font-size: 8px; font-family: Inter; font-weight: 500; word-wrap: break-word">+3% from yesterday</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 238px; height: 201px; position: relative">
+          <div style="width: 237.95px; height: 201px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="width: 176.01px; height: 107px; left: 31.59px; top: 54px; position: absolute; justify-content: flex-start; align-items: flex-end; gap: 20px; display: inline-flex">
+            <div style="width: 13px; height: 87px; position: relative">
+              <div style="width: 13px; height: 87px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 44px; left: 0px; top: 43px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+            <div style="width: 13.25px; height: 107px; position: relative">
+              <div style="width: 13px; height: 107px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 55px; left: 0.25px; top: 52px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+            <div style="width: 13px; height: 87px; position: relative">
+              <div style="width: 13px; height: 87px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 36px; left: 0px; top: 51px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+            <div style="width: 13px; height: 79px; position: relative">
+              <div style="width: 13px; height: 79px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 22px; left: 0px; top: 57px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+            <div style="width: 13.02px; height: 61.14px; position: relative">
+              <div style="width: 13px; height: 61px; left: 0.02px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 32px; left: 0px; top: 29.14px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+            <div style="width: 13px; height: 66px; position: relative">
+              <div style="width: 13px; height: 66px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+              <div style="width: 13px; height: 44px; left: 0px; top: 22px; position: absolute; background: #618DFE; border-top-left-radius: 4px; border-top-right-radius: 4px"></div>
+            </div>
+          </div>
+          <div style="width: 38.51px; left: 13.82px; top: 14px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">Level</div>
+          <div style="width: 238px; height: 27px; left: 0px; top: 161px; position: absolute">
+            <div style="width: 238px; height: 0px; left: 0px; top: 0px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+            <div style="width: 55px; height: 12px; left: 33.57px; top: 13px; position: absolute; justify-content: flex-start; align-items: center; gap: 11px; display: inline-flex">
+              <div style="width: 8px; height: 8px; background: #618DFE; border-radius: 9999px"></div>
+              <div style="color: #A0A0A0; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Volume</div>
+            </div>
+            <div style="width: 56px; height: 12px; left: 149.09px; top: 13px; position: absolute; justify-content: flex-start; align-items: center; gap: 11px; display: inline-flex">
+              <div style="width: 8px; height: 8px; background: #2B2B36; border-radius: 9999px"></div>
+              <div style="color: #A0A0A0; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Service</div>
+            </div>
+            <div style="width: 17px; height: 0px; left: 119.47px; top: 27px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; border: 0.50px rgba(255, 255, 255, 0.18) solid"></div>
+          </div>
+        </div>
+      </div>
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 14px; display: inline-flex">
+        <div style="width: 504px; height: 228px; position: relative">
+          <div style="width: 504px; height: 228px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="left: 14px; top: 14px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">Top Products</div>
+          <div style="width: 504px; height: 169px; left: 0px; top: 51px; position: absolute">
+            <div style="width: 504px; height: 26px; left: 0px; top: 0px; position: absolute">
+              <div style="left: 83px; top: 0px; position: absolute; color: #87888C; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">Name</div>
+              <div style="left: 242px; top: 0px; position: absolute; color: #87888C; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">Popularity</div>
+              <div style="left: 442px; top: 0px; position: absolute; color: #87888C; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">Sales</div>
+              <div style="width: 504px; height: 0px; left: 0px; top: 26px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+              <div style="left: 21px; top: 0px; position: absolute; color: #87888C; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">#</div>
+            </div>
+            <div style="width: 504px; height: 29px; left: 0px; top: 34px; position: absolute">
+              <div style="width: 504px; height: 0px; left: 0px; top: 29px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+              <div style="left: 83px; top: 3px; position: absolute; color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Opened messages</div>
+              <div style="left: 18px; top: 3px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">01</div>
+              <div style="width: 164px; height: 0.52px; left: 242px; top: 12px; position: absolute">
+                <div style="width: 164px; height: 0px; left: 0px; top: 0.52px; position: absolute; border: 3px #2B2B36 solid"></div>
+                <div style="width: 128px; height: 0px; left: 0px; top: 0.52px; position: absolute; border: 3px #618DFE solid"></div>
+              </div>
+              <div style="width: 38px; height: 22px; left: 442px; top: 0px; position: absolute">
+                <div style="width: 38px; height: 22px; left: 0px; top: 0px; position: absolute; background: rgba(97, 141, 254, 0.01); border-radius: 4px; border: 0.50px #618DFE solid"></div>
+                <div style="left: 8px; top: 5px; position: absolute; color: #618DFE; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">46%</div>
+              </div>
+            </div>
+            <div style="width: 504px; height: 29px; left: 0px; top: 71px; position: absolute">
+              <div style="width: 504px; height: 0px; left: 0px; top: 29px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+              <div style="left: 83px; top: 5px; position: absolute; color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Star marked</div>
+              <div style="left: 18px; top: 4px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">02</div>
+              <div style="width: 164px; height: 0.52px; left: 242px; top: 12px; position: absolute">
+                <div style="width: 164px; height: 0px; left: 0px; top: 0.52px; position: absolute; border: 3px #2B2B36 solid"></div>
+                <div style="width: 102px; height: 0px; left: 0px; top: 0.02px; position: absolute; border: 3px #FCB859 solid"></div>
+              </div>
+              <div style="width: 38px; height: 22px; left: 442px; top: 0px; position: absolute">
+                <div style="width: 38px; height: 22px; left: 0px; top: 0px; position: absolute; background: rgba(169, 223, 216, 0.12); border-radius: 4px; border: 0.50px #FCB859 solid"></div>
+                <div style="left: 9px; top: 5px; position: absolute; color: #FCB859; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">17%</div>
+              </div>
+            </div>
+            <div style="width: 504px; height: 30px; left: 0px; top: 109px; position: absolute">
+              <div style="width: 504px; height: 0px; left: 0px; top: 30px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+              <div style="left: 83px; top: 6px; position: absolute; color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Reacted message</div>
+              <div style="left: 18px; top: 4px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">03</div>
+              <div style="width: 164px; height: 0.52px; left: 242px; top: 12px; position: absolute">
+                <div style="width: 164px; height: 0px; left: 0px; top: 0.52px; position: absolute; border: 3px #2B2B36 solid"></div>
+                <div style="width: 82px; height: 0px; left: 0px; top: 0.01px; position: absolute; border: 3px #28AEF3 solid"></div>
+              </div>
+              <div style="width: 38px; height: 22px; left: 442px; top: 0px; position: absolute">
+                <div style="width: 38px; height: 22px; left: 0px; top: 0px; position: absolute; background: rgba(40, 174, 243, 0.12); border-radius: 4px; border: 0.50px #28AEF3 solid"></div>
+                <div style="left: 9px; top: 5px; position: absolute; color: #28AEF3; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">19%</div>
+              </div>
+            </div>
+            <div style="width: 462px; height: 22px; left: 18px; top: 147px; position: absolute">
+              <div style="left: 65px; top: 4px; position: absolute; color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Moved to spam </div>
+              <div style="left: 0px; top: 3px; position: absolute; color: white; font-size: 13px; font-family: Inter; font-weight: 500; word-wrap: break-word">04</div>
+              <div style="width: 164px; height: 0.52px; left: 224px; top: 12px; position: absolute">
+                <div style="width: 164px; height: 0px; left: 0px; top: 0.52px; position: absolute; border: 3px #2B2B36 solid"></div>
+                <div style="width: 50px; height: 0px; left: 0px; top: -0px; position: absolute; border: 3px #6E219F solid"></div>
+              </div>
+              <div style="width: 38px; height: 22px; left: 424px; top: 0px; position: absolute">
+                <div style="width: 38px; height: 22px; left: 0px; top: 0px; position: absolute; background: rgba(242, 200, 237, 0.12); border-radius: 4px; border: 0.50px #F2C8ED solid"></div>
+                <div style="left: 8px; top: 5px; position: absolute; color: #F2C8ED; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">29%</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 241px; height: 228px; position: relative">
+          <div style="width: 240.95px; height: 228px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="width: 147.97px; left: 14px; top: 14px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">Customer Fulfilment</div>
+          <div style="width: 214.96px; height: 106px; left: 13px; top: 45px; position: absolute">
+            <div style="width: 213.95px; height: 71.50px; left: 0px; top: 0px; position: absolute">
+              <div style="width: 210.95px; height: 70.50px; left: 2px; top: 1px; position: absolute">
+                <div style="width: 210.38px; height: 41.28px; left: 0px; top: 0px; position: absolute; background: linear-gradient(177deg, #A9DFD8 0%, rgba(29, 30, 38, 0) 100%); border: 1.15px #618DFE solid"></div>
+                <div style="width: 210.95px; height: 70.50px; left: 0px; top: 0px; position: absolute; background: linear-gradient(177deg, #618DFE 0%, rgba(29, 30, 38, 0) 100%)"></div>
+              </div>
+              <div style="width: 4px; height: 4px; left: 0px; top: 7px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 29.99px; top: 21px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 41.99px; top: 21px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 68.99px; top: 13px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 93.98px; top: 28px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 107.98px; top: 28px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 131.97px; top: 11px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 143.97px; top: 15px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 180.96px; top: 40px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 188.96px; top: 36px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 209.95px; top: 0px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+            </div>
+            <div style="width: 214.96px; height: 68px; left: 0px; top: 38px; position: absolute">
+              <div style="width: 210.95px; height: 65.82px; left: 2px; top: 2.18px; position: absolute">
+                <div style="width: 210.38px; height: 30.96px; left: 0px; top: 0px; position: absolute; background: linear-gradient(179deg, #681994 0%, rgba(29, 30, 38, 0) 100%); border: 1.15px #8038C1 solid"></div>
+                <div style="width: 210.95px; height: 65.25px; left: 0px; top: 0.57px; position: absolute; background: linear-gradient(179deg, #681994 0%, rgba(29, 30, 38, 0) 100%)"></div>
+              </div>
+              <div style="width: 4px; height: 4px; left: 0px; top: 13px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 16px; top: 11px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 38.99px; top: 0px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 68.99px; top: 31px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 99.98px; top: 31px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 135.97px; top: 20px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 181.96px; top: 23px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+              <div style="width: 4px; height: 4px; left: 210.96px; top: 2px; position: absolute; background: #8038C1; border-radius: 9999px"></div>
+            </div>
+          </div>
+          <div style="width: 241px; height: 49px; left: 0px; top: 168px; position: absolute">
+            <div style="width: 37px; height: 0px; left: 116.97px; top: 49px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; border: 0.50px rgba(255, 255, 255, 0.12) solid"></div>
+            <div style="width: 241px; height: 0px; left: 0px; top: 0px; position: absolute; border: 0.50px rgba(255, 255, 255, 0.06) solid"></div>
+            <div style="width: 64px; height: 29px; left: 25px; top: 14px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+              <div style="justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+                <div style="width: 6px; height: 6px; background: #618DFE; border-radius: 9999px"></div>
+                <div style="color: #A0A0A0; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Last Month</div>
+              </div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">4,087</div>
+            </div>
+            <div style="width: 64px; height: 29px; left: 145px; top: 14px; position: absolute; flex-direction: column; justify-content: center; align-items: center; gap: 5px; display: inline-flex">
+              <div style="justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+                <div style="width: 6px; height: 6px; background: #F2C8ED; border-radius: 9999px"></div>
+                <div style="color: #A0A0A0; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">This Month</div>
+              </div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">5,506</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="justify-content: flex-start; align-items: flex-start; gap: 14px; display: inline-flex">
+        <div style="width: 238px; height: 305px; position: relative">
+          <div style="width: 238px; height: 247px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="width: 174px; height: 174px; left: 32px; top: 131px; position: absolute">
+            <div style="width: 174px; height: 174px; left: 0px; top: 0px; position: absolute; background: #2B2B36; border-radius: 9999px"></div>
+            <div style="width: 174px; height: 174px; left: 0px; top: 0px; position: absolute; background: #618DFE; border-radius: 9999px"></div>
+            <div style="width: 50px; height: 0px; left: 119px; top: 55px; position: absolute; transform: rotate(-45deg); transform-origin: 0 0; border: 3px #618DFE solid"></div>
+            <div style="left: 59px; top: 52px; position: absolute; color: white; font-size: 25px; font-family: Inter; font-weight: 700; word-wrap: break-word">80%</div>
+          </div>
+          <div style="width: 151px; height: 90px; left: 14px; top: 14px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 9px; display: inline-flex">
+            <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 5px; display: flex">
+              <div style="color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">Delivered messages</div>
+              <div style="color: #87888C; font-size: 10px; font-family: Inter; font-weight: 500; word-wrap: break-word">Total  Required</div>
+            </div>
+            <div style="color: #618DFE; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">6078</div>
+            <div style="width: 151px; color: #87888C; font-size: 11px; font-family: Inter; font-weight: 500; word-wrap: break-word">Clicking rate</div>
+          </div>
+        </div>
+        <div style="width: 506px; height: 247px; position: relative">
+          <div style="width: 506px; height: 247px; left: 0px; top: 0px; position: absolute; background: #21222D; border-radius: 10px"></div>
+          <div style="width: 452px; height: 163px; left: 27px; top: 57px; position: absolute">
+            <div style="width: 420.04px; height: 131.50px; left: 31.96px; top: 3px; position: absolute">
+              <div style="width: 417.54px; height: 126px; left: 1px; top: 0px; position: absolute; border: 3px #618DFE solid"></div>
+              <div style="width: 420.04px; height: 125.50px; left: 0px; top: 6px; position: absolute; background: linear-gradient(181deg, #618DFE 0%, rgba(97, 141, 254, 0.01) 100%)"></div>
+            </div>
+            <div style="width: 420.53px; height: 12px; left: 27.97px; top: 151px; position: absolute; justify-content: flex-start; align-items: center; gap: 18px; display: inline-flex">
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Jan</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Feb</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Mar</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Apr</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">May</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Jun</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Jul</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Aug</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Sep</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Oct</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Nov</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">Dec</div>
+            </div>
+            <div style="width: 19.98px; height: 152px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">500</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">400</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">300</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">200</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">100</div>
+              <div style="color: white; font-size: 10px; font-family: Inter; font-weight: 600; word-wrap: break-word">0</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 18px; left: 14px; top: 14px; position: absolute; color: white; font-size: 15px; font-family: Inter; font-weight: 600; word-wrap: break-word">Status</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 132px; height: 813px; left: 16px; top: 0px; position: absolute">
+      <div style="width: 60px; height: 15px; left: 10px; top: 135px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: #87888C"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Profile</div>
+      </div>
+      <div style="width: 97px; height: 15px; left: 10px; top: 186px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: #87888C"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Leaderboard</div>
+      </div>
+      <div style="width: 56px; height: 15px; left: 10px; top: 237px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: #87888C"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Order</div>
+      </div>
+      <div style="width: 69px; height: 15px; left: 10px; top: 288px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute">
+            <div style="width: 12px; height: 8.40px; left: 0px; top: 3.60px; position: absolute; border: 1px #87888C solid"></div>
+            <div style="width: 5.43px; height: 5.40px; left: 3.28px; top: -0px; position: absolute; border: 1px #87888C solid"></div>
+          </div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Product</div>
+      </div>
+      <div style="width: 62px; height: 15px; left: 10px; top: 339px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: #87888C; border: 0.50px #87888C solid"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Report</div>
+      </div>
+      <div style="width: 75px; height: 15px; left: 10px; top: 390px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: #87888C"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Message</div>
+      </div>
+      <div style="width: 71px; height: 15px; left: 10px; top: 441px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute">
+            <div style="width: 12px; height: 12px; left: 0px; top: 0px; position: absolute; border: 1.20px #87888C solid"></div>
+            <div style="width: 4.20px; height: 4.37px; left: 3.90px; top: 3.83px; position: absolute; border: 1.20px #87888C solid"></div>
+          </div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Settings</div>
+      </div>
+      <div style="width: 77px; height: 15px; left: 10px; top: 492px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12.13px; left: 1px; top: 1px; position: absolute; border: 1.20px #87888C solid"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Favourite</div>
+      </div>
+      <div style="width: 65px; height: 15px; left: 10px; top: 543px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12.13px; left: 1px; top: 1px; position: absolute; background: #87888C; border: 1.20px #87888C solid"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">History</div>
+      </div>
+      <div style="width: 68px; height: 15px; left: 10px; top: 594px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 14px; height: 14px; position: relative">
+          <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: #87888C"></div>
+          <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; border: 1.20px #87888C solid"></div>
+        </div>
+        <div style="color: #87888C; font-size: 12px; font-family: Inter; font-weight: 500; word-wrap: break-word">Signout</div>
+      </div>
+      <div style="width: 116px; height: 36px; left: 0px; top: 74px; position: absolute">
+        <div style="width: 116px; height: 36px; left: 0px; top: 0px; position: absolute; background: #618DFE; border-radius: 6px"></div>
+        <div style="width: 87px; height: 15px; left: 15px; top: 10px; position: absolute; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+          <div style="width: 14px; height: 14px; position: relative">
+            <div style="width: 14px; height: 14px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 12px; height: 12px; left: 1px; top: 1px; position: absolute; background: white; border: 1.20px white solid"></div>
+          </div>
+          <div style="color: white; font-size: 12px; font-family: Inter; font-weight: 600; word-wrap: break-word">Dashboard</div>
+        </div>
+      </div>
+      <div style="width: 813px; height: 0px; left: 132px; top: 813px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; border: 1px #2C2D33 solid"></div>
+    </div>
+    <div style="width: 8px; height: 151px; left: 676px; top: 601px; position: absolute">
+      <div style="width: 147px; height: 0px; left: 4.12px; top: 151px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; border: 1px #FCB859 dotted"></div>
+      <div style="width: 8px; height: 8px; left: 0px; top: 0px; position: absolute; background: #FCB859; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 85px; height: 22px; left: 822px; top: 555px; position: absolute">
+      <div style="width: 85px; height: 22px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 4px"></div>
+      <div style="width: 5px; height: 5px; left: 8px; top: 5px; position: absolute; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+        <div style="width: 5px; height: 5px; background: #FCB859; border-radius: 9999px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 88px; height: 815px; left: 66px; top: 43px; position: absolute">
+    <div style="width: 88px; height: 815px; left: 0px; top: 0px; position: absolute; background: #171821; border-radius: 12px; backdrop-filter: blur(100px)"></div>
+    <div style="width: 38px; height: 10.23px; left: 25px; top: 25.56px; position: absolute">
+      <div style="width: 10px; height: 10.23px; left: 0px; top: 0px; position: absolute; background: #EA1701; border-radius: 9999px"></div>
+      <div style="width: 10px; height: 10.23px; left: 14px; top: 0px; position: absolute; background: #FEB002; border-radius: 9999px"></div>
+      <div style="width: 10px; height: 10.23px; left: 28px; top: 0px; position: absolute; background: #029F04; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 14px; height: 518.36px; left: 37px; top: 86.92px; position: absolute">
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white; border: 1.20px #618DFE solid"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 50.40px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 100.81px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 151.21px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 201.62px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute">
+          <div style="width: 12px; height: 8.59px; left: 0px; top: 3.68px; position: absolute; border: 1px white solid"></div>
+          <div style="width: 5.43px; height: 5.52px; left: 3.28px; top: -0px; position: absolute; border: 1px white solid"></div>
+        </div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 252.02px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white; border: 0.50px white solid"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 302.43px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 352.83px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute">
+          <div style="width: 12px; height: 12.27px; left: 0px; top: 0px; position: absolute; border: 1.20px white solid"></div>
+          <div style="width: 4.20px; height: 4.47px; left: 3.90px; top: 3.92px; position: absolute; border: 1.20px white solid"></div>
+        </div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 403.24px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.41px; left: 1px; top: 1.02px; position: absolute; border: 1.20px white solid"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 453.64px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.41px; left: 1px; top: 1.02px; position: absolute; background: white; border: 1.20px white solid"></div>
+      </div>
+      <div style="width: 14px; height: 14.32px; left: 0px; top: 504.05px; position: absolute">
+        <div style="width: 14px; height: 14.32px; left: 0px; top: 0px; position: absolute; mix-blend-mode: darken; background: white"></div>
+        <div style="width: 12px; height: 12.27px; left: 1px; top: 1.02px; position: absolute; border: 1.20px white solid"></div>
+      </div>
+    </div>
+    <div style="width: 26.06px; height: 0px; left: 85px; top: 81.20px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 3px #A9DFD8 solid"></div>
+  </div>
+  <div style="left: 1003px; top: 14px; position: absolute; color: rgba(255, 255, 255, 0.80); font-size: 15px; font-family: Roboto; font-weight: 400; word-wrap: break-word">www.XYZ.com</div>
+</div>
+</body>
+</html>
+</body>
+</html>
