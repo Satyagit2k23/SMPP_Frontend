@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+</head>
+<body>
+<div style="width: 1280px; height: 832px; position: relative; background: #0B0D32">
+  <div style="width: 718.22px; height: 770.37px; left: 269.33px; top: 27.73px; position: absolute">
+    <div style="width: 718.22px; height: 479.90px; left: 0px; top: 151.55px; position: absolute; background: linear-gradient(137deg, rgba(255, 83, 188, 0.15) 0%, rgba(10, 252, 212, 0.15) 100%); border-radius: 52.43px; border: 4.19px #FE53BB solid; backdrop-filter: blur(41.94px)"></div>
+    <div style="width: 318.71px; height: 770.37px; padding: 10.49px; left: 202px; top: 0px; position: absolute"></div>
+  </div>
+  <div style="width: 1710.71px; height: 1714.50px; left: -376.04px; top: -204.20px; position: absolute">
+    <div style="width: 909.17px; height: 782.23px; left: 150.45px; top: 169.47px; position: absolute; background: conic-gradient(from 188deg at 23.57% 134.05%, rgba(229, 78, 171, 0.60) 185deg, rgba(9, 251, 211, 0.60) 233deg, rgba(30, 237, 210, 0.60) 291deg, rgba(32, 21, 128, 0.60) 350deg); box-shadow: 241.78721618652344px 241.78721618652344px 241.78721618652344px; filter: blur(241.79px)"></div>
+    <div style="width: 1483.69px; height: 1714.50px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 1095.71px; height: 1236.84px; left: 4.26px; top: 419.32px; position: absolute; transform: rotate(-15.25deg); transform-origin: 0 0; background: linear-gradient(137deg, rgba(255, 83, 188, 0.15) 0%, rgba(10, 252, 212, 0.15) 100%); border-radius: 9999px; border: 4.19px #FE53BB solid; backdrop-filter: blur(41.94px)"></div>
+      <div style="width: 1133.56px; height: 1134.12px; left: 0px; top: 844.28px; position: absolute; transform: rotate(-48.14deg); transform-origin: 0 0; background: #C4C4C4; border-radius: 9999px"></div>
+      <div style="width: 1395.03px; height: 1027.68px; left: 201.21px; top: 450.62px; position: absolute"></div>
+    </div>
+    <div style="width: 774.51px; height: 1006.86px; left: 936.20px; top: 345.55px; position: absolute; background: conic-gradient(from 192deg at 8.10% 108.75%, #561BBE 10deg, #09FBD3 158deg, #FE54BC 221deg); box-shadow: 547.1263427734375px 547.1263427734375px 547.1263427734375px; filter: blur(547.13px)"></div>
+  </div>
+  <div style="width: 501.16px; height: 321.11px; left: 362.33px; top: 234.69px; position: absolute; background: white; border-radius: 12.80px">
+    <div style="width: 752px; height: 417px; left: -99.25px; top: -32.66px; position: absolute; background: white; border-radius: 12.80px">
+      <div style="width: 94.82px; height: 45px; left: 329px; top: 5.50px; position: absolute; color: #010D39; font-size: 32px; font-family: Poppins; font-weight: 600; line-height: 38.40px; word-wrap: break-word">Log In</div>
+      <div style="width: 76.24px; height: 16px; left: 43.94px; top: 90.50px; position: absolute; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 16px; word-wrap: break-word">Username </div>
+      <div style="width: 76.24px; height: 16px; left: 45px; top: 170.55px; position: absolute; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 16px; word-wrap: break-word">Language</div>
+      <div style="width: 16px; height: 16px; left: 121.86px; top: 95.45px; position: absolute"></div>
+      <div style="width: 16px; height: 16px; left: 121.92px; top: 167.50px; position: absolute">
+        <div style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute"></div>
+      </div>
+      <div style="width: 290px; height: 44px; left: 43.94px; top: 113.50px; position: absolute; background: white; border-radius: 6px; border: 1px #618DFF solid">
+        <div style="width: 290px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 288px; height: 42px; left: 1px; top: 1px; position: absolute; border-radius: 5px; border: 2px #618DFE solid"></div>
+      </div>
+      <div style="width: 290px; height: 44px; left: 43px; top: 192.55px; position: absolute; background: white; border-radius: 6px; border: 1px #6D84AB solid">
+        <div style="width: 290px; height: 44px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 20px; height: 24px; left: 258.92px; top: 10.42px; position: absolute">
+            <div style="width: 19.87px; height: 14.08px; left: 0px; top: 4.96px; position: absolute; background: #6D7D8F"></div>
+          </div>
+        </div>
+        <div style="width: 288px; height: 42px; left: 1px; top: 1px; position: absolute; border-radius: 5px; border: 2px rgba(182, 193, 213, 0) solid"></div>
+      </div>
+      <div style="width: 71.37px; height: 20px; left: 44px; top: 248.55px; position: absolute; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 16px; word-wrap: break-word">Password </div>
+      <div style="width: 290px; height: 44px; left: 43px; top: 269.55px; position: absolute; background: white; border-radius: 6px; border: 1px #6D84AB solid">
+        <div style="width: 290px; height: 44px; left: 0px; top: 0px; position: absolute"></div>
+        <div style="width: 20px; height: 20px; left: 259px; top: 11px; position: absolute; background: white">
+          <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute">
+              <div style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute">
+                <div style="width: 20px; height: 12.94px; left: -0px; top: 3.75px; position: absolute; background: #6D7D8F"></div>
+                <div style="width: 7.91px; height: 8.03px; left: 6.04px; top: 6.20px; position: absolute; background: #6D7D8F"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="width: 90.28px; height: 18px; left: 71.13px; top: 321.69px; position: absolute; color: #010D39; font-size: 12px; font-family: Poppins; font-weight: 400; line-height: 18px; word-wrap: break-word">Remember me</div>
+      <div style="width: 107.09px; height: 18px; left: 227.22px; top: 321.69px; position: absolute; color: #618DFE; font-size: 12px; font-family: Poppins; font-weight: 400; line-height: 18px; word-wrap: break-word">Forgot password?</div>
+      <div style="width: 2px; height: 112px; left: 374.98px; top: 90.14px; position: absolute; border: 1px #DCE7FA solid"></div>
+      <div style="width: 16.62px; height: 20px; left: 367.88px; top: 217.14px; position: absolute; color: #546B8F; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 19.60px; word-wrap: break-word">Or</div>
+      <div style="width: 2px; height: 112px; left: 374.98px; top: 253.73px; position: absolute; border: 1px #DCE7FA solid"></div>
+      <div style="width: 290px; height: 44px; left: 417px; top: 137.50px; position: absolute; background: white; border-radius: 100px; border: 1px #BDCDE7 solid">
+        <div style="width: 16px; height: 17px; left: 107.79px; top: 13.50px; position: absolute">
+          <div style="width: 16px; height: 17px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 16px; height: 17px; left: 0px; top: 0px; position: absolute">
+              <div style="width: 3.55px; height: 7.47px; left: 0px; top: 4.82px; position: absolute; background: #FBBB00"></div>
+              <div style="width: 7.82px; height: 7.73px; left: 8.18px; top: 7.01px; position: absolute; background: #518EF8"></div>
+              <div style="width: 12.05px; height: 6.33px; left: 0.95px; top: 10.17px; position: absolute; background: #28B446"></div>
+              <div style="width: 12.21px; height: 6.45px; left: 0.90px; top: 0.50px; position: absolute; background: #F14336"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 50.41px; height: 21px; left: 131.79px; top: 11.50px; position: absolute">
+          <div style="width: 50.76px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Google</div>
+        </div>
+      </div>
+      <div style="width: 290px; height: 44px; left: 417px; top: 205.50px; position: absolute; background: white; border-radius: 100px; border: 1px #BDCDE7 solid">
+        <div style="width: 14px; height: 17px; left: 98.73px; top: 13.50px; position: absolute">
+          <div style="width: 14px; height: 17px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 14px; height: 17px; left: 0px; top: 0px; position: absolute">
+              <div style="width: 12.55px; height: 16px; left: 0.50px; top: 0.50px; position: absolute; background: #DE3C00"></div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 70.52px; height: 21px; left: 120.73px; top: 11.50px; position: absolute">
+          <div style="width: 70.83px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Office 365</div>
+        </div>
+      </div>
+      <div style="width: 290px; height: 44px; left: 417px; top: 273.50px; position: absolute; background: white; border-radius: 100px; border: 1px #BDCDE7 solid">
+        <div style="width: 25px; height: 24px; left: 93.95px; top: 10px; position: absolute">
+          <div style="width: 25px; height: 24px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 25px; height: 24px; left: 0px; top: 0px; position: absolute">
+              <div style="width: 16px; height: 16px; left: 4.50px; top: 4px; position: absolute">
+                <div style="width: 16px; height: 16px; left: 0px; top: 0px; position: absolute; background: black"></div>
+                <div style="width: 16px; height: 11.20px; left: 0px; top: 2.50px; position: absolute">
+                  <div style="width: 0.71px; height: 1px; left: 9.70px; top: 4.76px; position: absolute; background: #00A1E0"></div>
+                  <div style="width: 0.66px; height: 0.35px; left: 13.41px; top: 4.75px; position: absolute; background: #00A1E0"></div>
+                  <div style="width: 0.66px; height: 0.35px; left: 5.98px; top: 4.75px; position: absolute; background: #00A1E0"></div>
+                  <div style="width: 0.60px; height: 0.48px; left: 3.89px; top: 5.29px; position: absolute; background: #00A1E0"></div>
+                  <div style="width: 16px; height: 11.20px; left: 0px; top: 0px; position: absolute; background: #00A1E0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="width: 73.09px; height: 21px; left: 122.95px; top: 11.50px; position: absolute">
+          <div style="width: 73.40px; height: 20px; left: 0px; top: 0px; position: absolute; text-align: center; color: #010D39; font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">Salesforce</div>
+        </div>
+      </div>
+      <div style="width: 22px; height: 22px; left: 46px; top: 319.55px; position: absolute">
+        <div style="width: 16.50px; height: 16.50px; left: 2.75px; top: 2.75px; position: absolute; background: linear-gradient(180deg, #7CC1F3 0%, #D27EEF 100%)"></div>
+      </div>
+      <div style="width: 291px; height: 50px; padding-left: 10px; padding-right: 10px; padding-top: 14px; padding-bottom: 14px; left: 44px; top: 352.55px; position: absolute; background: linear-gradient(91deg, #628EFF 0%, #8740CD 53%, #580475 100%); border-radius: 12px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div style="color: white; font-size: 20px; font-family: Noto Sans; font-weight: 600; word-wrap: break-word">Login</div>
+      </div>
+    </div>
+    <div style="left: 218.67px; top: 18.31px; position: absolute; color: #010D39; font-size: 16px; font-family: Noto Sans; font-weight: 500; word-wrap: break-word">Glad you’re back.!</div>
+  </div>
+  <div style="width: 242.74px; height: 69.85px; left: 506.67px; top: 748.80px; position: absolute">
+    <div style="width: 241.30px; height: 22px; left: 0.08px; top: 10px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 22px; word-wrap: break-word">© 2023 HI Tech Infosystem</div>
+    <div style="width: 153.44px; height: 21px; left: -16px; top: 38px; position: absolute; border-right: 1px #DCE7FA solid">
+      <div style="width: 136.75px; height: 20px; left: 8px; top: 0px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 21px; word-wrap: break-word">Terms & Conditions</div>
+    </div>
+    <div style="width: 67.48px; height: 21px; left: 137.44px; top: 38px; position: absolute; border-right: 1px #DCE7FA solid">
+      <div style="width: 50.83px; height: 20px; left: 8px; top: 0px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 21px; word-wrap: break-word">Privacy</div>
+    </div>
+    <div style="width: 44.49px; height: 21px; left: 212.93px; top: 37px; position: absolute; text-align: center; color: white; font-size: 14px; font-family: Poppins; font-weight: 400; line-height: 21px; word-wrap: break-word">Status</div>
+  </div>
+  <div style="width: 44.44px; height: 51.36px; left: 17.78px; top: 27.73px; position: absolute">
+    <div style="width: 38.19px; height: 31.30px; left: 3.12px; top: 10.03px; position: absolute; background: linear-gradient(180deg, #618DFF 0%, rgba(255, 255, 255, 0) 100%)"></div>
+  </div>
+</div>
+</body>
+</html>
